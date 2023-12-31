@@ -8,5 +8,12 @@ public static void main(String[] args) {
     sunf System System.out.println();
     dsf
 }
+sun.rmi.registry.resources
+
+
+
+
+
+sd
 
 }
